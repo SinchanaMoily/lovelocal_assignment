@@ -6,7 +6,7 @@
 -------------------------------
 
 
-|easyy|
+|easy|
 -----------------
 Certainly! Here are three main points about the logic and reason behind the provided C code:
 
